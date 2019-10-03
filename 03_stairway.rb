@@ -34,8 +34,8 @@ def game(dice)
 # faire return tour ou un array ? 
 end
 
-def stats 
-    while parties 
+def average_finish_time
+    
 end 
 
 def 
