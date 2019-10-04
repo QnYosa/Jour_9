@@ -34,14 +34,12 @@ def game(dice)
 # faire return tour ou un array ? 
 end
 
-def average_finish_time
-    
-end 
 
-def 
+
 def perform
     dices
     dice = dices
     game(dices)
 end 
+
 perform 
