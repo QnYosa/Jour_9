@@ -39,7 +39,7 @@ end
 def perform
     dices
     dice = dices
-    game(dice)
+    game(dices)
 end 
 
 perform 
